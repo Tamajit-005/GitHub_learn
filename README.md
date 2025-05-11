@@ -13,3 +13,9 @@ Learn to use github as a beginner
 10. Now we check the status using comment "git status".
 11. Now we use the comment "git commit -m " to complete the file changes.
 12. Now we publish the file with "git push origin main".
+13. To load the modified changes from other user, use "git pull origin main".
+14. To add a new branch, we need to use "git checkout -b branch_name".
+15. To check available branch, we need to use "git branch".
+16. To change branch, we need to use "git checkout branch_name".
+17. To merge the new branch, we need to click the link which appeared after pushing into new branch.
+18. Now we get a push request at github, we confirm the request and merge into the main branch.
