@@ -1,6 +1,7 @@
 # GitHub_learn
 Learn to use github as a beginner 
 
+# Step by step process of learning github
 1. Create a github account.
 2. Create a repository in github.
 3. Copy the url of the repository from github.
