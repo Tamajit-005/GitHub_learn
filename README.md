@@ -10,3 +10,6 @@ Learn to use github as a beginner
 7. Repository created successfully.
 8. Open terminal.
 9. Now we add this modified file in the repository using the comment "git add .\README.md".
+10. Now we check the status using comment "git status".
+11. Now we use the comment "git commit -m " to complete the file changes.
+12. Now we publish the file with "git push origin main".
